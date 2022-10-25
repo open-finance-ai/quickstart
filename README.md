@@ -11,14 +11,14 @@ This Quickstart is designed to show you how to integrate to our api's using basi
 Using https:
 
 ```bash
-git clone https://github.com/open-finance/quickstart
+git clone https://github.com/open-finance-ai/quickstart
 cd quickstart
 ```
 
 Alternatively, if you use ssh:
 
 ```bash
-git clone git@github.com:open-finance/quickstart.git
+git clone git@github.com:open-finance-ai/quickstart.git
 cd quickstart
 ```
 
